@@ -1,1 +1,8 @@
 out/
+build/
+.direnv/
+compile_commands.json
+.cache/
+build_/
+install_/
+result
